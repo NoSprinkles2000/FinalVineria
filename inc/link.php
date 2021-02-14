@@ -3,7 +3,6 @@
 <link rel="stylesheet" href="./css/font-awesome.min.css">
 <link rel="stylesheet" href="./css/normalize.css">
 <link rel="stylesheet" href="./css/bootstrap.min.css">
-<link rel="stylesheet" href="./css/bootstrap-material-design.min.css">
 <link rel="stylesheet" href="./css/ripples.min.css">
 <link rel="stylesheet" href="./css/sweetalert.css">
 <link rel="stylesheet" href="./css/media.css">

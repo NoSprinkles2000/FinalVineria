@@ -14,7 +14,7 @@ include './library/consulSQL.php';
        <br>
         <div class="container">
             <div class="page-header">
-              <h1>PRODUCTOS</h1>
+              <h1>Productos</h1>
             </div>
             <?php
               $checkAllCat=ejecutarSQL::consultar("SELECT * FROM categoria");

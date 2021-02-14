@@ -9,7 +9,7 @@
     <section id="container-pedido">
         <div class="container">
             <div class="page-header">
-              <h1>PEDIDOS</h1>
+              <h1>Pedidos</h1>
             </div>
             <br><br><br>
             <div class="row">
